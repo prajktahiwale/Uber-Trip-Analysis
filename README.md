@@ -41,3 +41,6 @@ Project Highlights:
  ▶️ Dynamic Pricing Optimization – ML can enhance surge pricing strategies for peak hours. 
 
  ▶️ Smart City Planning – Governments & ride-sharing companies can optimize traffic flow & reduce congestion. 
+
+ Dashboard Link:
+ https://app.powerbi.com/view?r=eyJrIjoiYTMwNWQzMjgtMGZjMS00NThlLWFkNDEtNGMxNmU1OWIyZTM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
